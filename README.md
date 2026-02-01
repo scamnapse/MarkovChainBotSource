@@ -44,6 +44,7 @@ once it is done training you can edit the bot's source file to point to the outp
 Likely not, you can make your own modules for scraping anyways.
 Also if you have anny generally decent suggestions for sites to write scrapers for then make a PR and it (might) be added
 If you want to know the interest in sites to write scrapers for then it's below listed from most interested (top) to least interested (bottom):
+```
 4chan (Likely)
 Quora (Possible, debating)
 Old Yahoo Answers archives (Possible, debating)
@@ -59,3 +60,4 @@ The Jassy/Jaksoy (Possible, but VERY unlikely since i'd have to go onto that hel
 Rule34.xxx comments (Possible, VERY unlikely to be added unless if i am REALLY fucking bored and want to write such a thing)
 Pornhub Comments (Possible, again same as rule34.xxx and again i dont wanna touch porn sites for comment scraping, also there would only be like 2-3 really funny/idiotic comments per video/post and i'd personally just train off of those, same with rule34.xxx)
 Any other porn site (XVideos, XNXX, Realbooru, etc) (Possible, again same as rule34.xxx and again i dont wanna touch porn sites for comment scraping, also there would only be like 2-3 really funny/idiotic comments per video/post and i'd personally just train off of those selected comments, same with rule34.xxx)
+```
