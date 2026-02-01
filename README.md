@@ -40,6 +40,13 @@ MODEL_NAME = 'ExampleGPT.json'
 You will edit it to point to your CSV and change the output file name.
 once it is done training you can edit the bot's source file to point to the outputted JSON and you have a markov chain trained off of Reddit!
 
+# How do i scrape 4chan with this?
+Install basc-py4chan for scraping 4chan
+```py
+pip install basc-py4chan
+```
+mostly the same as reddit, except for 4chanScraper.py you change the board instead of the subreddit, default is /g/ as of right now.
+
 # Will I add support for X site?
 Likely not, you can make your own modules for scraping anyways.
 Also if you have anny generally decent suggestions for sites to write scrapers for then make a PR and it (might) be added
