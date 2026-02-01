@@ -52,7 +52,7 @@ Likely not, you can make your own modules for scraping anyways.
 Also if you have anny generally decent suggestions for sites to write scrapers for then make a PR and it (might) be added
 If you want to know the interest in sites to write scrapers for then it's below listed from most interested (top) to least interested (bottom):
 ```
-4chan (Likely)
+4chan ️✅ (Added)
 Quora (Possible, debating)
 Old Yahoo Answers archives (Possible, debating)
 8kun/8chan (Possible, debating)
