@@ -52,6 +52,13 @@ Install py8chan
 pip install py8chan
 ```
 mostly the same as 4chan/reddit, /v/ is set as the default board for scraping as of now.
+# How do i scrape Soyjak Party with this?
+Install nodriver
+```py
+pip install nodriver
+```
+Install brave, this is also needed for scraping the sharty since they have some anti bot protection.
+Run the soyjakpartyscraper.py file. /soy/ is the default board to scrape. edit the file to change the board.
 
 # Will I add support for X site?
 Likely not, you can make your own modules for scraping anyways.
@@ -60,6 +67,7 @@ If you want to know the interest in sites to write scrapers for then it's below 
 ```
 4chan ️✅ (Added)
 8kun/8chan ✅ (Added)
+The Sharty/Soyjak Party ✅ (Added)
 Quora (Possible, debating)
 Old Yahoo Answers archives (Possible, debating)
 Twitter/X (Possible, debating)
@@ -67,7 +75,6 @@ YouTube comments (Possible, debatable and not likely.)
 Genius/AZLyrics (Possible, likely going to just scrape a whole band's lyrics from every song they have made, unlikely to be made though.)
 Roblox chat messages (Possible, this will likely just log every chat to a .csv and you can train off that, also unlikely.)
 Old Miiverse archives (Possible, but unlikely)
-The Sharty/Soyjak Party (Possible, but unlikely)
 Swedishwin/The Swinny (Possible, but unlikely)
 The Jassy/Jaksoy (Possible, but VERY unlikely since i'd have to go onto that hellscape of a site to get the general HTML structure and I want to avoid scraping images for this site especially.)
 Rule34.xxx comments (Possible, VERY unlikely to be added unless if i am REALLY fucking bored and want to write such a thing)
