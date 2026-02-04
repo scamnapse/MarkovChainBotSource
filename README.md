@@ -46,6 +46,12 @@ Install basc-py4chan for scraping 4chan
 pip install basc-py4chan
 ```
 mostly the same as reddit, except for 4chanScraper.py you change the board instead of the subreddit, default is /g/ as of right now.
+# How do i scrape 8kun with this?
+Install py8chan
+```py
+pip install py8chan
+```
+mostly the same as 4chan/reddit, /v/ is set as the default board for scraping as of now.
 
 # Will I add support for X site?
 Likely not, you can make your own modules for scraping anyways.
@@ -53,9 +59,9 @@ Also if you have anny generally decent suggestions for sites to write scrapers f
 If you want to know the interest in sites to write scrapers for then it's below listed from most interested (top) to least interested (bottom):
 ```
 4chan ️✅ (Added)
+8kun/8chan ✅ (Added)
 Quora (Possible, debating)
 Old Yahoo Answers archives (Possible, debating)
-8kun/8chan (Possible, debating)
 Twitter/X (Possible, debating)
 YouTube comments (Possible, debatable and not likely.)
 Genius/AZLyrics (Possible, likely going to just scrape a whole band's lyrics from every song they have made, unlikely to be made though.)
