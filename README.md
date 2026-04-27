@@ -5,7 +5,7 @@ Full source code release, do whatever you want with this, make sure to credit me
 Install Python 3.13, ALWAYS MAKE SURE ADD TO PATH IS SET - This assumes you are using Windows.
 Once Python is installed, run this command to install everything you need to run these
 ```
-pip install markovify discord.py csv ijson requests beautifulsoup4 urllib
+pip install markovify discord.py csv ijson requests beautifulsoup4 urllib3
 ```
 Once you have everything installed, edit the discord trainer script to point to your json file, you can get this by using Discord-Chat-Exporter and exporting it in JSON format.
 For example:
